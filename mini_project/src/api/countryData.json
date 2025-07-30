@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 213993437,
+    "interestingFact": "Brazil is the Amazon Rainforest, the largest tropical in the world."
+  },
+  {
+    "id": 2,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1393409038,
+    "interestingFact": "India is the world's largest democracy by population."
+  },
+  {
+    "id": 3,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 125960000,
+    "interestingFact": "Japan is made up of over 6,800 islands."
+  },
+  {
+    "id": 4,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 25687041,
+    "interestingFact": "Australia is the only continent covered by a single country."
+  },
+  {
+    "id": 5,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 38008005,
+    "interestingFact": "Canada has more lakes than the rest of the world's lakes combined."
+  },
+  {
+    "id": 6,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 6707241,
+    "interestingFact": "The Eiffel Tower in Paris was once the tallest man-made structure in the world."
+  },
+  {
+    "id": 7,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 145912025,
+    "interestingFact": "Russia is the largest country in the world by area."
+  },
+  {
+    "id": 8,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 104124440,
+    "interestingFact": "Egypt is  Giza, one of the Seven Wonders of the Ancient World."
+  },
+  {
+    "id": 9,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 83166711,
+    "interestingFact": "Germany is known for its engineering and automotive industry."
+  }
+
+]
